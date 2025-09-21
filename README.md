@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Treehari
-- 👀 I’m interested in ... vex robotics
-- 🌱 I’m currently learning ... vex robotics
-- 💞️ I’m looking to collaborate on ... vex robotics
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Data Analysis, Visualization, and Machine Learning
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...
 
 <!---
